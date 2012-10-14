@@ -1,0 +1,302 @@
+/*
+ Main stylesheet for vegaasen.com version #2
+
+ author: vegard aasen
+ since: 09.10.2011
+ version: 0.1
+ type: handheld devices -> e.g typeOf{width<480px}
+
+ changelog:
+ (nothing)
+*/
+
+.menu {
+    display: block;
+    padding-left: 0;
+    position: relative;
+    text-align: center;
+}
+
+.large_spacer {
+    height: 0;
+}
+
+#main_sections #showcase > .menu span {
+    border-bottom: 1px dotted #777777;
+    color: #A8A8A8;
+    float: left;
+    font-size: 0.8em;
+    padding-right: 10px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+#showcase > .menu > hr.spacer {
+    background-color: #777777;
+    border: 0 none;
+    display: none;
+    float: left;
+    height: 13px;
+    position: relative;
+    top: -5px;
+    width: 2px;
+}
+
+section#section_nav {
+    float: none;
+}
+
+nav a.nav_element:visited, nav a.nav_element:link, nav a.nav_element {
+    color: #000000;
+    font-size: 0.7em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#showcase > .menu > nav {
+    left: 0;
+    position: relative;
+    float: none;
+}
+
+#favoriteBookmarks {
+    display: none;
+    height: auto !important;
+    margin-left: 0 !important;
+    position: absolute !important;
+    top: 51px !important;
+    width: auto !important;
+    z-index: 1001;
+}
+
+
+#favoriteBookmarks > .bubble > .arrow {
+    left: 195px;
+    top: -15px !important;
+    z-index: 1000;
+}
+
+#favoriteBookmarks > .bubble > .rounded_big > .content > h1 {
+    font-size: 0.9em;
+}
+
+#favoriteBookmarks > .bubble > .rounded_big > .content > p > a {
+    font-size: 0.8em;
+    letter-spacing: 0.2em;
+    text-decoration: none;
+}
+#favoriteBookmarks > .bubble > .rounded_big > .content > p {
+    padding: 0;
+    margin: 0;
+}
+
+#twitterLiveFeed {
+    clear: both;
+    display: block;
+    float: left;
+    left: 0;
+    margin-left: 0;
+    position: relative;
+    top: 30px;
+    width: 100% !important;
+}
+
+#twitterLiveFeed > .bubble {
+    float: left !important;
+    left: 0 !important;
+    width: 90% !important;
+    margin-left: 20px;
+}
+
+#twitterLiveFeed > .bubble > .rounded_big {
+    line-height: 1;
+    font-size: 0.6em !important;
+    max-height: 55px !important;
+    min-height: 45px !important;
+    min-width: 130px !important;
+    width: 90% !important;
+}
+
+#twitterLiveFeed > .bubble > .rounded_big > .content {
+    font-size:1em;
+}
+
+#twitterLiveFeed > .bubble > .rounded_big > .poster {
+    font-size: 1.2em;
+}
+
+#twitterLiveFeed > .bubble > .arrow {
+    top: 8px !important;
+}
+
+#twitterLiveFeed > .bubble > .arrow {
+    border-right: 15px solid #FFFFFF;
+    border-top: 8px solid transparent;
+    display: block;
+    height: 0;
+    left: -30px;
+    overflow: hidden;
+    position: relative;
+    width: 0;
+    border-left: 0;
+}
+
+#items_showcase_coll {
+    clear: both;
+    float: left;
+    margin: 55px 0 0 25px;
+    position: relative;
+}
+
+#items {
+    clear: both;
+    float: left;
+    position: relative;
+}
+
+.item_content_info > .content_teaser {
+    color: #777777;
+    font-size: 11px;
+    height: auto;
+    max-height: 50px;
+    margin: 10px 14px;
+}
+
+.item_content_info .content_image {
+    height: 100px;
+    
+}
+
+.item_content_info .content_header {
+    margin: 0 14px 0;
+}
+
+.item_exposed_full {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0 0 40px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 0 40px rgba(0, 0, 0, 0.3);
+    cursor: default;
+    display: block;
+    float: left;
+    height: auto;
+    margin: 0 2px 2px 0;
+    /*max-width: 220px;*/
+    min-width: 180px;
+    padding: 24px;
+    position: relative;
+    visibility: visible;
+    width: auto;
+    z-index: 999;
+}
+
+.item_exposed_full .exposed_container {
+    font-size: 0.7em !important;
+}
+
+.exposed_content > .content_full img {
+    border: 5px solid #000000;
+    display: block;
+    height: auto;
+    max-width: 210px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.exposed_content > .attributes > .tags {
+    clear: both;
+    display: block;
+    float: left;
+}
+
+.exposed_content > .attributes > .categories {
+    clear: both;
+    display: block;
+    float: left;
+}
+
+.exposed_content > .content_header {
+    color: #333333;
+    font-family: Arial,sans-serif;
+    font-size: 22px;
+    font-weight: normal;
+    line-height: 1.5;
+    margin: -8px 0 0;
+    padding: 0 0 34px;
+    text-shadow: 2px 2px 2px #DDDDDD;
+    width: auto;
+}
+
+.exposed_content > .content_full {
+    color: #555555;
+    width: auto;
+}
+
+section#articlebubble .articles_spread_out {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 95%;
+}
+
+section#articlebubble .articles_spread_out h1 {
+    font-size: 0.9em;
+}
+
+#article_full > .container {
+    background: none repeat scroll 0 0 #FFFFFF !important;
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.3);
+    cursor: default;
+    display: block;
+    float: left;
+    height: auto;
+    margin: 0 0 30px;
+    padding: 24px;
+    position: relative;
+    visibility: visible;
+    width: 92%;
+    z-index: 999;
+    font-size: 0.7em !important;
+}
+
+#article_full > .container .full_header {
+    font-size: 1.8em;
+}
+
+.full_content .full_attributes > .full_categories {
+    clear: both;
+    display: block;
+    float: left;
+    font-size: 0.9em;
+}
+
+.full_content .full_attributes > .full_tags {
+    clear: both;
+    display: block;
+    float: left;
+    font-size: 0.9em;
+}
+
+footer {
+    bottom: 0;
+    float: left;
+    position: fixed;
+    text-align: left;
+}
+
+.articles_spread_out h1 {
+    font-size: 1em;
+}
+
+.articles {
+    font-size: 0.9em;
+    text-decoration: none;
+    text-transform: uppercase;
+    word-spacing: -0.1em;
+}
+
+.articles > .recentArticle {
+    font-size: 0.7em !important;
+}

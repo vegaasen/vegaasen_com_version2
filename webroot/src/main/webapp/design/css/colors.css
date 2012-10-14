@@ -1,0 +1,183 @@
+/**
+ *  Represents all the various colors used to display random elements, or in regards to colors themselves.
+ *
+ *  @author vegaasen
+ *  @since 0.1g
+ */
+
+
+.scheme1:hover {
+    color: #0db644;
+    -webkit-transition: color .25s linear;
+    -moz-transition: color .25s linear;
+    -o-transition: color .25s linear;
+    transition: color .25s linear;
+}
+
+.scheme1 {
+    color: #666666;
+    -webkit-transition: color .25s linear .1s;
+    -moz-transition: color .25s linear .1s;
+    -o-transition: color .25s linear .1s;
+    transition: color .25s linear .1s;
+}
+
+.scheme2:hover {
+    color: #ff6666;
+    -webkit-transition: color .25s linear;
+    -moz-transition: color .25s linear;
+    -o-transition: color .25s linear;
+    transition: color .25s linear;
+}
+
+.scheme2 {
+    color: #666666;
+    -webkit-transition: color .25s linear .1s;
+    -moz-transition: color .25s linear .1s;
+    -o-transition: color .25s linear .1s;
+    transition: color .25s linear .1s;
+}
+
+.scheme3:hover {
+    color: #00c6d6;
+    -webkit-transition: color .25s linear;
+    -moz-transition: color .25s linear;
+    -o-transition: color .25s linear;
+    transition: color .25s linear;
+}
+
+.scheme3 {
+    color: #666666;
+    -webkit-transition: color .25s linear .1s;
+    -moz-transition: color .25s linear .1s;
+    -o-transition: color .25s linear .1s;
+    transition: color .25s linear .1s;
+}
+
+.scheme4:hover {
+    color: #a78314;
+    -webkit-transition: color .25s linear;
+    -moz-transition: color .25s linear;
+    -o-transition: color .25s linear;
+    transition: color .25s linear;
+}
+
+.scheme4 {
+    color: #666666;
+    -webkit-transition: color .25s linear .1s;
+    -moz-transition: color .25s linear .1s;
+    -o-transition: color .25s linear .1s;
+    transition: color .25s linear .1s;
+}
+
+.scheme5:hover {
+    color: #9999ff;
+    -webkit-transition: color .25s linear;
+    -moz-transition: color .25s linear;
+    -o-transition: color .25s linear;
+    transition: color .25s linear;
+}
+
+.scheme5 {
+    color: #666666;
+    -webkit-transition: color .25s linear .1s;
+    -moz-transition: color .25s linear .1s;
+    -o-transition: color .25s linear .1s;
+    transition: color .25s linear .1s;
+}
+
+.scheme6:hover {
+    color: #ff00ef;
+    -webkit-transition: color .25s linear;
+    -moz-transition: color .25s linear;
+    -o-transition: color .25s linear;
+    transition: color .25s linear;
+}
+
+.scheme6 {
+    color: #666666;
+    -webkit-transition: color .25s linear .1s;
+    -moz-transition: color .25s linear .1s;
+    -o-transition: color .25s linear .1s;
+    transition: color .25s linear .1s;
+}
+
+.scheme7:hover {
+    color: #80f1ff;
+    -webkit-transition: color .25s linear;
+    -moz-transition: color .25s linear;
+    -o-transition: color .25s linear;
+    transition: color .25s linear;
+}
+
+.scheme7 {
+    color: #666666;
+    -webkit-transition: color .25s linear .1s;
+    -moz-transition: color .25s linear .1s;
+    -o-transition: color .25s linear .1s;
+    transition: color .25s linear .1s;
+}
+
+.scheme8:hover {
+    color: #00ccff;
+    -webkit-transition: color .25s linear;
+    -moz-transition: color .25s linear;
+    -o-transition: color .25s linear;
+    transition: color .25s linear;
+}
+
+.scheme8 {
+    color: #666666;
+    -webkit-transition: color .25s linear .1s;
+    -moz-transition: color .25s linear .1s;
+    -o-transition: color .25s linear .1s;
+    transition: color .25s linear .1s;
+}
+
+.scheme9:hover {
+    color: #9999ff;
+    -webkit-transition: color .25s linear;
+    -moz-transition: color .25s linear;
+    -o-transition: color .25s linear;
+    transition: color .25s linear;
+}
+
+.scheme9 {
+    color: #666666;
+    -webkit-transition: color .25s linear .1s;
+    -moz-transition: color .25s linear .1s;
+    -o-transition: color .25s linear .1s;
+    transition: color .25s linear .1s;
+}
+
+.scheme10:hover {
+    color: #8f7232;
+    -webkit-transition: color .25s linear;
+    -moz-transition: color .25s linear;
+    -o-transition: color .25s linear;
+    transition: color .25s linear;
+}
+
+.scheme10 {
+    color: #666666;
+    -webkit-transition: color .25s linear .1s;
+    -moz-transition: color .25s linear .1s;
+    -o-transition: color .25s linear .1s;
+    transition: color .25s linear .1s;
+}
+
+.scheme11:hover {
+    color: #00cc66;
+    -webkit-transition: color .25s linear;
+    -moz-transition: color .25s linear;
+    -o-transition: color .25s linear;
+    transition: color .25s linear;
+}
+
+.scheme11 {
+    color: #666666;
+    -webkit-transition: color .25s linear .1s;
+    -moz-transition: color .25s linear .1s;
+    -o-transition: color .25s linear .1s;
+    transition: color .25s linear .1s;
+}

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.vegaasen.site</groupId>
+    <artifactId>webroot</artifactId>
+
+    <name>vegaasencom</name>
+    <description>Maven Build for vegaasen version2</description>
+
+    <packaging>zip</packaging>
+    <version>0.2.m-SNAPSHOT</version>
+
+    <repositories>
+        <repository>
+            <name>php-central</name>
+            <url>http://repo1.php-maven.org/release</url>
+            <id>php-central</id>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+        <repository>
+            <name>m2-central</name>
+            <id>m2-central</id>
+            <url>http://repo1.maven.org/maven2</url>
+        </repository>
+    </repositories>
+
+    <distributionManagement>
+        <repository>
+            <id>ftp.vegaasen.com</id>
+            <name>Vegard Aasen.com</name>
+            <url>ftp://ftp.vegaasen.com</url>
+        </repository>
+    </distributionManagement>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.phpunit</groupId>
+            <artifactId>phpunit5</artifactId>
+            <version>3.3.9</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <reporting>
+        <plugins>
+            <!-- Doxygen Documentation  -->
+            <plugin>
+                <groupId>org.phpmaven</groupId>
+                <artifactId>maven-php-plugin</artifactId>
+                <version>1.1</version>
+            </plugin>
+            <!-- Surfire Documentation -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-report-plugin</artifactId>
+                <version>2.4</version>
+                <reportSets>
+                    <reportSet>
+                        <reports>
+                            <report>report-only</report>
+                        </reports>
+                    </reportSet>
+                </reportSets>
+            </plugin>
+        </plugins>
+    </reporting>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.phpmaven</groupId>
+                <artifactId>maven-php-plugin</artifactId>
+                <version>1.1</version>
+                <extensions>true</extensions>
+            </plugin>
+            <plugin>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <version>2.2.1</version>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.phpmaven</groupId>
+                        <artifactId>maven-php-plugin</artifactId>
+                        <version>1.1</version>
+                    </dependency>
+                </dependencies>
+                <executions>
+                    <execution>
+                        <id>bundle-project-sources</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                        <configuration>
+                            <descriptorRefs>
+                                <descriptorRef>php-webapp</descriptorRef>
+                            </descriptorRefs>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>com.samaxes.maven</groupId>
+                <artifactId>maven-minify-plugin</artifactId>
+                <version>1.3.5</version>
+                <configuration>
+                    <webappSourceDir>${basedir}/src/main/webapp</webappSourceDir>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>default-minify</id>
+                        <phase>process-resources</phase>
+                        <configuration>
+                            <cssSourceDir>design/css/</cssSourceDir>
+                            <cssSourceFiles>
+                                <cssSourceFile>site.css</cssSourceFile>
+                            </cssSourceFiles>
+                            <cssFinalFile>site-min.css</cssFinalFile>
+                            <charset>UTF-8</charset>
+                        </configuration>
+                        <goals>
+                            <goal>minify</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <artifactId>maven-site-plugin</artifactId>
+                <configuration>
+                    <locales>en,no</locales>
+                </configuration>
+            </plugin>
+        </plugins>
+        <resources>
+            <resource>
+                <directory>${basedir}/src/main/webapp/blog</directory>
+                <targetPath>${basedir}/src/main/webapp/blog</targetPath>
+                <excludes>
+                    <exclude>**/*</exclude>
+                </excludes>
+            </resource>
+        </resources>
+    </build>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>

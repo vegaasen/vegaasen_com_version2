@@ -1,0 +1,15 @@
+ErrorDocument 401 /errorDocuments/401.php
+ErrorDocument 403 /errorDocuments/403.php
+ErrorDocument 404 /errorDocuments/404.php
+ErrorDocument 500 /errorDocuments/500.php
+
+Header set Access-Control-Allow-Origin *
+
+#RewriteEngine On
+# Rewrite to my pc.
+#<Proxy balancer://vegaasenMachine>
+#    BalancerMember http://88.90.114.94:8001
+#</Proxy>
+
+#RewriteRule ^/services/(.*)$ balancer://vegaasenMachine/hf/rest/paper/$1 [P,NC]
+#ProxyPassReverse /services/ http://88.90.114.94:8001/hf/rest/paper/

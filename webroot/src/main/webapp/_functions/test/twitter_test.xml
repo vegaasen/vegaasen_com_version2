@@ -1,0 +1,1253 @@
+GET http://v2.vegaasen.local/_framework/twitter/twitter-conf.php
+
+        200 OK
+        1.54s
+        HeadersResponseHTML
+
+        <?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+    <status>
+        <created_at>Fri Oct 21 23:07:29 +0000 2011</created_at>
+        <id>127521418031276032</id>
+        <text>Some nice reading from #ibm :-) http://t.co/jODnSPoe</text>
+        <source>&lt;a href=&quot;http://www.apple.com&quot; rel=&quot;nofollow&quot;&gt;Safari on iOS&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <possibly_sensitive>false</possibly_sensitive>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Wed Oct 19 17:52:47 +0000 2011</created_at>
+        <id>126717443463847938</id>
+        <text>Ordering the new #newus asap it is official in no_NO! *drool*</text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for
+            iPhone&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Mon Oct 10 21:55:23 +0000 2011</created_at>
+        <id>123517004958269440</id>
+        <text>#facebook for #ipad?? That took ~ 1.6 yrs. Gz!</text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Mon Oct 10 21:52:05 +0000 2011</created_at>
+        <id>123516175551447040</id>
+        <text>Soo, vegaasen v2 taking form,.responsive design is the new word on the mouth, as well as cofeescript.
+            Cool? Yours to decide..
+        </text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Tue Oct 04 21:13:28 +0000 2011</created_at>
+        <id>121332128490336256</id>
+        <text>@CrazyLegzz bout time for deg:p nokia a gitt:D looord! Ipad er faaan til digg, kj&#248;per vel appleTV
+            snart ogs&#229;:-p heeerre!
+        </text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id>121330056470593536</in_reply_to_status_id>
+        <in_reply_to_user_id>32397293</in_reply_to_user_id>
+        <in_reply_to_screen_name>CrazyLegzz</in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Tue Oct 04 21:04:03 +0000 2011</created_at>
+        <id>121329758515630081</id>
+        <text>@CrazyLegzz wootafook, f&#229;tt deg iphone du ogs&#229;?:P n&#229;r skjedde detta? Noe galt?:p</text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id>121324065377107968</in_reply_to_status_id>
+        <in_reply_to_user_id>32397293</in_reply_to_user_id>
+        <in_reply_to_screen_name>CrazyLegzz</in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Tue Oct 04 17:59:27 +0000 2011</created_at>
+        <id>121283303058845696</id>
+        <text>Oh nvm that prev post..it looks just the same as the old one. Only the bezel that changed abit. Back to
+            android for me.. Soo close:-)
+        </text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Tue Oct 04 17:54:44 +0000 2011</created_at>
+        <id>121282115944972288</id>
+        <text>Seems like there will be a 4&quot; screen for Iphone 4S. Oh joy!:D</text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Tue Oct 04 17:46:30 +0000 2011</created_at>
+        <id>121280045594578944</id>
+        <text>#engadget's page crashed..lots of fanbois want that iphone5 info:-)</text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Mon Oct 03 19:58:21 +0000 2011</created_at>
+        <id>120950835583782913</id>
+        <text>#ubunt is 10d away. Promising alot, it seems like..can it cut it? Looking forward to check it out!</text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Wed Sep 28 05:47:27 +0000 2011</created_at>
+        <id>118924761433780224</id>
+        <text>Trip to Trysil in 1h 14m..oh the excessive joy..</text>
+        <source>&lt;a href=&quot;http://twitter.com/download/android&quot; rel=&quot;nofollow&quot;&gt;Twitter for
+            Android&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Fri Sep 23 21:09:14 +0000 2011</created_at>
+        <id>117344796326113280</id>
+        <text>Trying out responsive design for my new page...hum, this might turn out nice! Html5 &amp;lt;3 bigtime.
+        </text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Sat Sep 17 11:51:59 +0000 2011</created_at>
+        <id>115030233840750592</id>
+        <text>#MediaSnuggler will go live tomorrow or monday :-) free #UPNP #Android 2.1 application. Works with Win,
+            Xbx, iOS, android devices and more!
+        </text>
+        <source>web</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Wed Sep 14 17:25:53 +0000 2011</created_at>
+        <id>114027100742238208</id>
+        <text>@marius_lzm nice,.anbefaler annoteringsapiet til junit, det er enklere enn testcase og ditt og datt;-) du
+            kan ogs&#229; sjekke ut NUnit:-)
+        </text>
+        <source>&lt;a href=&quot;http://twitter.com/download/android&quot; rel=&quot;nofollow&quot;&gt;Twitter for
+            Android&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id>113585580813721600</in_reply_to_status_id>
+        <in_reply_to_user_id>239280354</in_reply_to_user_id>
+        <in_reply_to_screen_name>marius_lzm</in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Tue Sep 13 09:06:39 +0000 2011</created_at>
+        <id>113539073968324608</id>
+        <text>@marius_lzm nei s&#229; nice, &#229;ssen er det mulig?!:-P Anbefaler EasyMock og PowerMock om du skal
+            mocke objekter ogs&#229; :-)
+        </text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id>113514000788111360</in_reply_to_status_id>
+        <in_reply_to_user_id>239280354</in_reply_to_user_id>
+        <in_reply_to_screen_name>marius_lzm</in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Tue Sep 13 05:25:33 +0000 2011</created_at>
+        <id>113483432184651776</id>
+        <text>@marius_lzm hehe, wootafook:-P hva sku den egentlig hete??:-P</text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id>113241810553413632</in_reply_to_status_id>
+        <in_reply_to_user_id>239280354</in_reply_to_user_id>
+        <in_reply_to_screen_name>marius_lzm</in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Tue Sep 13 05:23:44 +0000 2011</created_at>
+        <id>113482974862901249</id>
+        <text>Halsbetennelses-skiiiiiiit! #GTFO</text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Sat Sep 10 20:30:19 +0000 2011</created_at>
+        <id>112623961426239488</id>
+        <text>Hvorfor skjedde dette ikke meg? .. http://t.co/7aaXvpd .. Skjerpings #elkj&#248;p, flere venter ogs&#229;
+            spendt:-D
+        </text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <possibly_sensitive>false</possibly_sensitive>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Fri Sep 09 21:37:31 +0000 2011</created_at>
+        <id>112278485141168129</id>
+        <text>http://t.co/iTL6GI0 new audi a4 for 2013? Looks allright, unsure about the headlights tho ^^</text>
+        <source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <possibly_sensitive>false</possibly_sensitive>
+        <contributors/>
+    </status>
+    <status>
+        <created_at>Fri Sep 09 19:58:59 +0000 2011</created_at>
+        <id>112253689766490112</id>
+        <text>Trying out testNG (http://t.co/q9jXFtR), couple of nice features within this framework over junit. first
+            post of updated site will be &amp;lt;--
+        </text>
+        <source>web</source>
+        <truncated>false</truncated>
+        <favorited>false</favorited>
+        <in_reply_to_status_id></in_reply_to_status_id>
+        <in_reply_to_user_id></in_reply_to_user_id>
+        <in_reply_to_screen_name></in_reply_to_screen_name>
+        <retweet_count>0</retweet_count>
+        <retweeted>false</retweeted>
+        <user>
+            <id>46416547</id>
+            <name>Vegard Aasen</name>
+            <screen_name>vegaasen</screen_name>
+            <location>H&#248;nefoss, Ringerike</location>
+            <description>A relative ok guy from Hardanger, Norway that likes juice, cookies and milk. Also programming
+                is nice, as well as spending money on a useless car.. err
+            </description>
+            <profile_image_url>http://a2.twimg.com/profile_images/1572706600/image_normal.jpg</profile_image_url>
+            <profile_image_url_https>https://si0.twimg.com/profile_images/1572706600/image_normal.jpg
+            </profile_image_url_https>
+            <url>http://www.vegaasen.com/</url>
+            <protected>false</protected>
+            <followers_count>24</followers_count>
+            <profile_background_color>636363</profile_background_color>
+            <profile_text_color>303030</profile_text_color>
+            <profile_link_color>6e9eff</profile_link_color>
+            <profile_sidebar_fill_color>d1e7ff</profile_sidebar_fill_color>
+            <profile_sidebar_border_color>62a1cc</profile_sidebar_border_color>
+            <friends_count>90</friends_count>
+            <created_at>Thu Jun 11 15:52:49 +0000 2009</created_at>
+            <favourites_count>1</favourites_count>
+            <utc_offset>3600</utc_offset>
+            <time_zone>Paris</time_zone>
+            <profile_background_image_url>http://a2.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url>
+            <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/198779444/twitter48.png
+            </profile_background_image_url_https>
+            <profile_background_tile>false</profile_background_tile>
+            <profile_use_background_image>true</profile_use_background_image>
+            <notifications>false</notifications>
+            <geo_enabled>false</geo_enabled>
+            <verified>false</verified>
+            <following>false</following>
+            <statuses_count>110</statuses_count>
+            <lang>en</lang>
+            <contributors_enabled>false</contributors_enabled>
+            <follow_request_sent>false</follow_request_sent>
+            <listed_count>0</listed_count>
+            <show_all_inline_media>true</show_all_inline_media>
+            <default_profile>false</default_profile>
+            <default_profile_image>false</default_profile_image>
+            <is_translator>false</is_translator>
+        </user>
+        <geo/>
+        <coordinates/>
+        <place/>
+        <possibly_sensitive>false</possibly_sensitive>
+        <contributors/>
+    </status>
+</statuses>

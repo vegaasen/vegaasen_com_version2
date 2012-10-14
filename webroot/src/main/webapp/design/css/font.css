@@ -1,0 +1,17 @@
+/**
+  * Contains all fonts for my site.
+  *
+  * @author vegaasen
+  */
+
+/* First font - Used on v2 */
+@font-face {
+    font-family: 'vegaasenFontf2';
+    src: url('/design/fonts/f2/vegaasencomf_2-webfont.eot');
+    src: url('/design/fonts/f2/vegaasencomf_2-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/design/fonts/f2/vegaasencomf_2-webfont.woff') format('woff'),
+         url('/design/fonts/f2/vegaasencomf_2-webfont.ttf') format('truetype'),
+         url('/design/fonts/f2/vegaasencomf_2-webfont.svg#vegaasencomf2Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

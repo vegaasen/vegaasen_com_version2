@@ -1,0 +1,66 @@
+/**
+  * This is the normal Segment for tablets
+  *
+  * @author vegaasen
+  */
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+.menu {
+    padding-left: 80px;
+    width: 600px;
+}
+
+#twitterLiveFeed {
+    margin-left: 0;
+}
+
+.bubble {
+    width: 520px !important;
+}
+
+.bubble > .arrow {
+    left: 96px;
+    border-right: 15px solid #FFFFFF;
+    border-left: none;
+}
+
+section#articlebubble #article_full {
+    margin-left: 25px !important;
+}
+
+section#articlebubble .articles_spread_out {
+    width: 100% !important;
+}
+
+section#articlebubble .articles_spread_out {
+    font-size: 0.8em !important;
+    text-align: center;
+}
+
+section#articlebubble .articles_spread_out .articles {
+    font-size: 1em;
+}
+
+#page_wrapper > .item_small_thumb {
+    max-height: 250px;
+}
+
+.item_small_thumb > .item_teaser {
+    width: 250px;
+    max-height: 250px;
+}
+
+.item_content_info > .content_image {
+    height: 85px;
+    width: 221px;
+}
+
+.item_content_info > .content_image {
+    text-align: center !important;
+}
+
+
+
+.full_spinner {
+    width: 85% !important;
+}
+}

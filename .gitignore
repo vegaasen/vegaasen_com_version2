@@ -1,0 +1,10 @@
+# project files
+/webroot/target/*
+
+# wordpress
+/webroot/src/main/webapp/blog/*
+
+# earlier vcs
+.svn*
+
+

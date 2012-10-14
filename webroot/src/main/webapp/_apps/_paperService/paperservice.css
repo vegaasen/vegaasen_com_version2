@@ -1,0 +1,50 @@
+#appbody{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    text-align: center;
+    font-family: 'vegaasenFontf2';
+    background: none repeat scroll 0 0 #e7e4dc;
+    line-height: 1.5;
+    height: auto !important;
+    cursor: default;
+}
+
+input, select {
+    font-family: 'vegaasenFontf2';
+    font-size: 1.2em;
+}
+
+a, a:link, a:visited, a:hover {
+    cursor: pointer;
+}
+
+#services {
+    display: none;
+}
+
+.storyteller {
+    font-weight: bold;
+}
+
+.go {
+    margin-top: 15px;
+}
+
+.go label {
+    clear: right;
+}
+
+.specific:hover, .latest:hover, .qualityOpt:hover, .timespan:hover {
+    background-color: #eeeeee;
+    opacity: 0.9;
+    border-radius: 4px;
+}
+
+select:focus, option:focus {
+    font-size: 2em;
+}
+
+.oops {
+    display: none;
+}
