@@ -1,6 +1,6 @@
 # project files
 /webroot/target/*
-
+.idea*
 # wordpress
 /webroot/src/main/webapp/blog/*
 
